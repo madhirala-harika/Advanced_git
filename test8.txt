@@ -1,1 +1,2 @@
 created test8 file in remote repo to understand fetch and merge
+adding content from local repo
